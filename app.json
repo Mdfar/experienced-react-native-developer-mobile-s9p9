@@ -1,0 +1,1 @@
+{ "expo": { "name": "SaaS Mobile Pro", "slug": "saas-mobile-pro", "version": "1.0.0", "orientation": "portrait", "icon": "./assets/icon.png", "splash": { "image": "./assets/splash.png", "resizeMode": "contain" }, "ios": { "bundleIdentifier": "com.staqlt.saaspro", "supportsTablet": true }, "android": { "package": "com.staqlt.saaspro" } } }
